@@ -1,0 +1,28 @@
+body{ background-color: #5cd6d6; font-size: 15px; margin: 20px; }
+
+h1 {color: black; margin: 10px; padding: 15px; border: 15px solid #ECBE06; background: black; text-align: center;}
+h3 {color: black; margin: 10px; padding: 15px; background: black; text-align: center;  }
+
+a:link {color:red;}
+
+.myclass{color: lightgrey;}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%
+}
+
+div{
+	background-color: #ECBE06;
+	padding: 10px;
+	margin: 20px;
+	text-align: center;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
